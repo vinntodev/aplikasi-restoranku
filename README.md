@@ -1,11 +1,37 @@
+# Aplikasi Restoranku
+
+Sistem manajemen restoran berbasis web untuk **Admin/Karyawan** (panel backend) dan **Pelanggan** (toko depan). Admin mengelola menu, pesanan, pengguna, dan konten; pelanggan dapat melihat menu dan memesan lewat antarmuka responsif.
+
+---
+
 ## Register Page
-![register_page](https://github.com/vinntodev/aplikasi-restoranku/blob/ef553ff2558e806c2b4abcbbc832aedcfc2d4858/screenshot/register.jpeg)
+![register_page]()
 
 ## Login Page
-![login_page](https://github.com/vinntodev/aplikasi-restoranku/blob/ef553ff2558e806c2b4abcbbc832aedcfc2d4858/screenshot/login.jpeg)
-
-## Home Page
-![home_page](https://github.com/vinntodev/aplikasi-restoranku/blob/ef553ff2558e806c2b4abcbbc832aedcfc2d4858/screenshot/dashboard_user.png)
+![login_page]()
 
 ## Admin Page
-![admin_page](https://github.com/vinntodev/aplikasi-restoranku/blob/ef553ff2558e806c2b4abcbbc832aedcfc2d4858/screenshot/panel_admin.png)
+### Dashboard
+![admin_dashboard]()
+
+### Daftar Pesanan
+![admin_order_list]()
+
+### Daftar Menu
+![admin_menu_list]()
+
+### Manajemen Kategori
+![admin_category_management]()
+
+### Manajemen Karyawan
+![admin_employee_management]()
+
+### Manajemen Role
+![admin_role_management]()
+
+### Gambar Slide
+![admin_slide_list]()
+
+## User Page
+### Beranda
+![user_home]()
